@@ -1,2 +1,7 @@
 # hello-world
-My first program
+
+Hi all
+This is my first file I write in Github
+
+Regards
+Me
